@@ -1,0 +1,137 @@
+NEWSROOM PRIVACY POLICY
+
+Last Updated: January 17, 2026
+
+1. INTRODUCTION
+
+Newsroom ("we," "our," or "us") operates the Newsroom mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.
+
+By using Newsroom, you agree to the collection and use of information in accordance with this policy. If you do not agree, please do not use the App.
+
+2. INFORMATION WE COLLECT
+
+2.1 Information You Provide Directly:
+- Account Information: Username, user ID, email address, password, and profile picture
+- User Content: Videos ("casts") you record and upload, news alerts you create
+- Communications: Reports you submit about other users or content
+
+2.2 Information Collected Automatically:
+- Device Information: Device type, operating system, unique device identifiers
+- Usage Data: Features used, interactions with content, timestamps
+- Log Data: IP address, app crashes, system activity
+
+2.3 Information from Third Parties:
+- Apple Sign-In: If you sign in with Apple, we receive your Apple ID credentials
+- Firebase Services: Authentication tokens, analytics data
+
+3. HOW WE USE YOUR INFORMATION
+
+We use the information we collect to:
+- Create and manage your account
+- Provide, maintain, and improve the App
+- Enable you to create, share, and view news alerts and video content
+- Monitor and enforce our Terms of Service and Community Guidelines
+- Respond to your comments, questions, and requests
+- Send you technical notices and security alerts
+- Detect, investigate, and prevent fraudulent or illegal activities
+- Comply with legal obligations
+
+4. HOW WE SHARE YOUR INFORMATION
+
+4.1 Publicly Visible Information:
+- Your username, user ID, and profile picture are visible to all users
+- News alerts you create are visible to all users
+- Videos you upload are visible to all authenticated users
+
+4.2 Service Providers:
+We share information with third-party services that help us operate the App:
+- Firebase (Google): Authentication, database, storage, analytics, crash reporting
+- Apple: App distribution, Sign-In with Apple
+
+4.3 Legal Requirements:
+We may disclose your information if required by law, court order, or governmental authority, or when we believe disclosure is necessary to:
+- Comply with applicable law
+- Protect our rights, privacy, safety, or property
+- Protect the safety of our users or the public
+- Respond to an emergency
+
+4.4 Business Transfers:
+If Newsroom is involved in a merger, acquisition, or sale of assets, your information may be transferred as part of that transaction.
+
+5. DATA STORAGE AND SECURITY
+
+5.1 Storage:
+Your data is stored using Firebase services (Google Cloud Platform) located in the United States. By using the App, you consent to the transfer of your information to the United States.
+
+5.2 Retention:
+- Account information: Retained until you delete your account
+- News alerts: Automatically deleted after 24 hours
+- Videos: Retained until the associated alert expires or you delete them
+- Blocked/hidden user data: Retained until you delete your account
+
+5.3 Security:
+We implement appropriate technical and organizational measures to protect your information, including:
+- Encrypted data transmission (HTTPS/TLS)
+- Secure authentication through Firebase
+- Access controls and authentication requirements
+
+However, no method of transmission over the Internet or electronic storage is 100% secure. We cannot guarantee absolute security.
+
+6. YOUR RIGHTS AND CHOICES
+
+6.1 Account Information:
+You can update your profile picture through the App settings. To change other account information or delete your account, use the in-app account deletion feature or contact us.
+
+6.2 Account Deletion:
+You can delete your account through the App. This will remove:
+- Your user profile and account information
+- Your blocked users list
+- Your hidden videos preferences
+
+Note: Content you created (alerts, videos) may persist until their natural expiration.
+
+6.3 Communications:
+You can opt out of non-essential communications by contacting us.
+
+7. CHILDREN'S PRIVACY
+
+Newsroom is not intended for users under 17 years of age. We do not knowingly collect personal information from anyone under 17. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately. If we discover that we have collected personal information from a user under 17, we will delete that information promptly.
+
+8. THIRD-PARTY SERVICES
+
+The App uses the following third-party services:
+
+- Firebase Authentication: For user sign-in and account management
+- Firebase Realtime Database: For storing alerts, user data, and app content
+- Firebase Storage: For storing videos and profile pictures
+- Firebase Analytics: For understanding app usage patterns
+- Firebase Crashlytics: For crash reporting and stability monitoring
+- Apple Sign-In: For optional account authentication
+
+Each of these services has its own privacy policy governing the use of your information.
+
+9. CALIFORNIA PRIVACY RIGHTS
+
+If you are a California resident, you have the right to:
+- Know what personal information we collect about you
+- Request deletion of your personal information
+- Opt out of the sale of your personal information (we do not sell personal information)
+- Non-discrimination for exercising your privacy rights
+
+To exercise these rights, contact us using the information below.
+
+10. INTERNATIONAL USERS
+
+If you are accessing the App from outside the United States, please be aware that your information will be transferred to, stored, and processed in the United States. By using the App, you consent to this transfer.
+
+11. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy in the App and updating the "Last Updated" date. You are advised to review this Privacy Policy periodically for any changes.
+
+12. CONTACT US
+
+If you have questions or concerns about this Privacy Policy or our data practices, please contact us at:
+
+Email: canzel216@gmail.com
+
+By using Newsroom, you acknowledge that you have read and understood this Privacy Policy.
